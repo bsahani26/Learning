@@ -18,6 +18,7 @@ fun main() {
     println(list.getSize())
 
     println(list.nodeAt(3))
+
 }
 
 class MyLinkedList {
